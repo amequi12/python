@@ -1,0 +1,6 @@
+cd C:/Users/User/Documents/PizzaBot/solution.py
+git init
+git add -solution.py
+git commit -m Solution
+git git remote add origin https://github.com/amequi12/python
+git push -u origin master
